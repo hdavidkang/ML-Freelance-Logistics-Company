@@ -5,7 +5,7 @@ Hi there 🤠
 During COVID-19, I volunteered to help a South Korean logistics company improve their business. <br>
 They had <i>1.7 million </i> data points of online orders, but seemed lost how to leverage data to make better deicisons.
 
-## ✔️ Main Offerings
+## Main Offerings
 An end-to-end solution from data wrangling to demand prediciton 📈 
 
 ## Table of Contents (my code)
